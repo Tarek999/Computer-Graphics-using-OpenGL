@@ -5,9 +5,9 @@ Computer Graphics (Robotic body, Animation, Rendering). Fundamental 2-D and 3-D 
 
 <center><img src="./Robotic%20Arm/FinalResult2.PNG" alt="alt text" width="400" height="400"></center>
 
-* [Task2 (FullBody Robot & Camera Movement)](https://github.com/Tarek999/Computer-Graphics-using-OpenGL/tree/main/FullBody%26Camera_Movement)
+* [Task2 (FullBody Robot & Camera Movement)](https://github.com/Tarek999/Computer-Graphics-using-OpenGL/tree/main/The%20Whole%20Body%20%26%20Camera%20Movement)
 
-<center><img src="./FullBody&Camera_Movement/05.png" alt="alt text" width="400" height="400"></center>
+<center><img src="./The%20Whole%20Body%20%26%20Camera%20Movement/Camera%20Movement%20Results/CM2.PNG" alt="alt text" width="400" height="400"></center>
 
 * [Task3-Part1(Animation,Texture Mapping & Rendering](https://github.com/Tarek999/Computer-Graphics-using-OpenGL/tree/main/Animation%20%26%20Rendering/Part1)
 
