@@ -11,16 +11,17 @@ Computer Graphics (Robotic body, Animation, Rendering). Fundamental 2-D and 3-D 
 
 * [Task3-Part1(Animation,Texture Mapping & Rendering](https://github.com/Tarek999/Computer-Graphics-using-OpenGL/tree/main/Animation%20%26%20Rendering/Part1)
 
-<center><img src="./Animation & Rendering/Part1/results/4.gif" alt="Scene" width="600" height="400"></center>
+<center><img src="./Animation%20%26%20Rendering/Part1/gif1.gif" alt="Scene" width="600" height="400"></center>
 
 
 * [Task3-Part2(Medical Visualization](https://github.com/Tarek999/Computer-Graphics-using-OpenGLL/tree/main/Animation%20%26%20Rendering/Part2)
 
+![head surface rendering](https://user-images.githubusercontent.com/61325635/121076914-438ad480-c7d7-11eb-9bb0-46dce26feba4.png)
 <table>
   <tr>
-    <td><img src="./Animation & Rendering/Part2/Images/8.png" width=1000 height=500></td>  
+   <center><img src="./Animation%20%26%20Rendering/Part1/gif1.gif" alt="Scene" width="600" height="400"></center> 
   </tr>
   <tr>
-    <td><img src="./Animation & Rendering/Part2/Images/10.png" width=1000 height=500></td>
+   <center><img src="./Animation%20%26%20Rendering/Part1/gif1.gif" alt="Scene" width="600" height="400"></center>
   </tr>
  </table>
