@@ -1,7 +1,7 @@
 # Computer-Graphics-using-OpenGL
 Computer Graphics (Robotic body, Animation, Rendering). Fundamental 2-D and 3-D transformations and gradually works its way up to  ray tracing techniques and simple 3-D medical volume reconstruction
 
-* [Task1 (Robot Arm)](https://github.com/Tarek999/Computer-Graphics-using-OpenGL/tree/main/Robotic Arm)
+* [Task1 (Robot Arm)](https://github.com/Tarek999/Computer-Graphics-using-OpenGL/tree/main/Robotic-Arm)
 
 <center><img src="./Robotic Arm/FinalResult2.png" alt="alt text" width="400" height="400"></center>
 
