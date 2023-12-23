@@ -23,3 +23,5 @@ Computer Graphics (Robotic body, Animation, Rendering). Fundamental 2-D and 3-D 
    ![ankle raycasting rendering](https://user-images.githubusercontent.com/61325635/121076870-32da5e80-c7d7-11eb-9f81-f98856a4a400.png)
  
  
+## Resources 
+* https://github.com/sbme-tutorials/Computer-Graphics-Tutorials
